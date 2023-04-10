@@ -1,2 +1,2 @@
-# me
-Learning
+# First code
+print('Hello, world!')
